@@ -1,0 +1,173 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 17:57:37.281314 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 17:57:37.281607 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:01:00.701837 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:01:03.615010 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:01:03.615258 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:05:14.771082 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.20.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:05:37.477703 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:05:37.477938 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:06:02.469352 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:06:17.781465 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:06:17.781725 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:17:40.785552 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:17:52.071495 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:17:52.071751 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:28:21.235537 2022] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:41:47.031670 2022] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:45:48.563926 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:45:51.560251 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:45:51.560482 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:46:39.948521 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:46:42.502238 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:46:42.502514 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:49:02.819935 2022] [mpm_prefork:notice] [pid 1] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:49:02.844570 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:49:02.844780 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:52:02.059684 2022] [mpm_prefork:notice] [pid 1] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:52:02.084671 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:52:02.084844 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:52:06.942924 2022] [php7:error] [pid 103] [client 192.168.10.2:51180] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:08.771404 2022] [php7:error] [pid 105] [client 192.168.10.2:51188] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:09.167890 2022] [php7:error] [pid 106] [client 192.168.10.2:51190] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:09.377384 2022] [php7:error] [pid 107] [client 192.168.10.2:51192] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:09.522972 2022] [php7:error] [pid 103] [client 192.168.10.2:51194] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:09.680444 2022] [php7:error] [pid 104] [client 192.168.10.2:51196] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:09.845582 2022] [php7:error] [pid 105] [client 192.168.10.2:51198] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:10.155680 2022] [php7:error] [pid 106] [client 192.168.10.2:51200] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:10.330321 2022] [php7:error] [pid 107] [client 192.168.10.2:51202] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:10.483345 2022] [php7:error] [pid 103] [client 192.168.10.2:51204] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:29.430679 2022] [mpm_prefork:notice] [pid 1] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:52:29.457418 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:52:29.457649 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:52:30.573560 2022] [php7:error] [pid 143] [client 192.168.10.2:51206] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:31.017369 2022] [php7:error] [pid 144] [client 192.168.10.2:51208] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:31.190728 2022] [php7:error] [pid 145] [client 192.168.10.2:51210] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:31.351270 2022] [php7:error] [pid 146] [client 192.168.10.2:51212] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:31.517676 2022] [php7:error] [pid 147] [client 192.168.10.2:51214] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:31.682084 2022] [php7:error] [pid 143] [client 192.168.10.2:51216] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:31.838848 2022] [php7:error] [pid 144] [client 192.168.10.2:51218] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:31.970974 2022] [php7:error] [pid 145] [client 192.168.10.2:51220] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:33.119619 2022] [php7:error] [pid 146] [client 192.168.10.2:51222] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:33.447057 2022] [php7:error] [pid 143] [client 192.168.10.2:51226] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:33.686674 2022] [php7:error] [pid 145] [client 192.168.10.2:51230] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:33.894976 2022] [php7:error] [pid 147] [client 192.168.10.2:51234] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:34.279141 2022] [php7:error] [pid 144] [client 192.168.10.2:51238] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:34.575323 2022] [php7:error] [pid 146] [client 192.168.10.2:51242] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:34.775701 2022] [php7:error] [pid 143] [client 192.168.10.2:51246] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:35.015390 2022] [php7:error] [pid 145] [client 192.168.10.2:51250] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:52:35.215134 2022] [php7:error] [pid 147] [client 192.168.10.2:51254] script '/var/www/html/test/.php' not found or unable to stat
+[Thu Apr 07 18:53:27.180127 2022] [mpm_prefork:notice] [pid 1] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:53:27.207154 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:53:27.207377 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:53:46.154725 2022] [mpm_prefork:notice] [pid 1] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:53:46.180056 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:53:46.180238 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:54:47.281813 2022] [mpm_prefork:notice] [pid 1] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:54:47.306204 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:54:47.306427 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 18:59:08.935548 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 18:59:41.358705 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 18:59:41.359004 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 19:01:49.548608 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 19:02:03.870417 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 19:02:03.870691 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 19:03:37.273546 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 19:04:35.165191 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 19:04:35.165449 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 19:05:20.961000 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 19:06:00.688273 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.20.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 19:06:14.544856 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 19:06:14.545095 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 19:21:18.693629 2022] [mpm_prefork:notice] [pid 1] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.20.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 19:21:18.719995 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 19:21:18.720223 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 19:35:22.364170 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.so' (tried: /usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so (/usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so.so (/usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Thu Apr 07 19:35:25.122171 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 19:35:25.122393 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 19:35:32.401766 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.20.3. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.so' (tried: /usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so (/usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so.so (/usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Thu Apr 07 19:35:35.182431 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 19:35:35.182703 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 19:36:08.170440 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.20.3. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.so' (tried: /usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so (/usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so.so (/usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Thu Apr 07 19:36:10.947068 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 19:36:10.947335 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 19:36:11.936587 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.so' (tried: /usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so (/usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so.so (/usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Thu Apr 07 19:43:38.169964 2022] [mpm_prefork:notice] [pid 1] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.so' (tried: /usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so (/usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so: cannot open shared object file: No such file or directory), /usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so.so (/usr/local/lib/php/extensions/no-debug-non-zts-20170718/php_mysqli.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: /usr/local/lib/php/extensions/no-debug-non-zts-20170718/mysqli (/usr/local/lib/php/extensions/no-debug-non-zts-20170718/mysqli: cannot open shared object file: No such file or directory), /usr/local/lib/php/extensions/no-debug-non-zts-20170718/mysqli.so (/usr/local/lib/php/extensions/no-debug-non-zts-20170718/mysqli.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Thu Apr 07 19:43:38.197304 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Thu Apr 07 19:43:38.197587 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 07 19:50:30.166963 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.20.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 07 19:52:34.543392 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 09 12:18:02.114128 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Apr 09 12:18:02.114290 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Apr 09 12:23:47.312039 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.20.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 09 12:28:31.633337 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 OpenSSL/1.1.1d configured -- resuming normal operations
+[Sat Apr 09 12:28:31.633556 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 09 12:37:20.575127 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.53 (Debian) PHP/7.4.28 configured -- resuming normal operations
+[Sat Apr 09 12:37:20.575359 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.20.4. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 09 12:38:13.343339 2022] [php7:notice] [pid 20] [client 192.168.10.2:57802] WordPress database error Table 'wordpress.wp_options' doesn't exist for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('nonce_key', '@AO,8U>U (AEp/qU7+2If?[o*o8Ajf>w}ZuaS/+ !d|Xf>)(m7JAftme}pjJROK|', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by wp_can_install_language_pack, WP_Upgrader->fs_connect, Automatic_Upgrader_Skin->request_filesystem_credentials, WP_Upgrader_Skin->request_filesystem_credentials, request_filesystem_credentials, wp_nonce_field, wp_create_nonce, wp_hash, wp_salt, update_site_option, update_network_option, add_network_option, add_option
+[Sat Apr 09 12:38:13.346625 2022] [php7:notice] [pid 20] [client 192.168.10.2:57802] WordPress database error Table 'wordpress.wp_options' doesn't exist for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('nonce_salt', 'G-iw!obI*[G,MxZOxT*b2UvB%],MPbam7qy1oSH[Y|=ID5nh -^z<;q0w7`RPwZ+', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by wp_can_install_language_pack, WP_Upgrader->fs_connect, Automatic_Upgrader_Skin->request_filesystem_credentials, WP_Upgrader_Skin->request_filesystem_credentials, request_filesystem_credentials, wp_nonce_field, wp_create_nonce, wp_hash, wp_salt, update_site_option, update_network_option, add_network_option, add_option
+[Sat Apr 09 12:38:26.342227 2022] [php7:notice] [pid 22] [client 192.168.10.2:57810] WordPress database error Table 'wordpress.wp_options' doesn't exist for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('nonce_key', 'ND|Z4z6ESiQ7<ARt/LOvR,Z)-g,M<RQ_z>.]?I (I2mk9?nXcwR)1t0:!6!Z.Ueq', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by wp_can_install_language_pack, WP_Upgrader->fs_connect, Automatic_Upgrader_Skin->request_filesystem_credentials, WP_Upgrader_Skin->request_filesystem_credentials, request_filesystem_credentials, wp_nonce_field, wp_create_nonce, wp_hash, wp_salt, update_site_option, update_network_option, add_network_option, add_option, referer: http://localhost/wp-admin/install.php
+[Sat Apr 09 12:38:26.345380 2022] [php7:notice] [pid 22] [client 192.168.10.2:57810] WordPress database error Table 'wordpress.wp_options' doesn't exist for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('nonce_salt', '?5.Rc(ycfzlsv-vm*,O{p<w9@p4=11Ko$7<dd8Q9PaHM?aRH>b^<FP(|/4$]@8B8', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by wp_can_install_language_pack, WP_Upgrader->fs_connect, Automatic_Upgrader_Skin->request_filesystem_credentials, WP_Upgrader_Skin->request_filesystem_credentials, request_filesystem_credentials, wp_nonce_field, wp_create_nonce, wp_hash, wp_salt, update_site_option, update_network_option, add_network_option, add_option, referer: http://localhost/wp-admin/install.php
+[Sat Apr 09 13:04:41.493634 2022] [php7:notice] [pid 21] [client 192.168.10.2:60178] WordPress database error Table 'wordpress.wp_options' doesn't exist for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('nonce_key', 'B[H.w//q+Ckz2dsYN@/i9%escp<TT_^lgN^#*rfi.?J(eO8(bLAe:V#=PB)}Nwqd', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by wp_can_install_language_pack, WP_Upgrader->fs_connect, Automatic_Upgrader_Skin->request_filesystem_credentials, WP_Upgrader_Skin->request_filesystem_credentials, request_filesystem_credentials, wp_nonce_field, wp_create_nonce, wp_hash, wp_salt, update_site_option, update_network_option, add_network_option, add_option
+[Sat Apr 09 13:04:41.496845 2022] [php7:notice] [pid 21] [client 192.168.10.2:60178] WordPress database error Table 'wordpress.wp_options' doesn't exist for query INSERT INTO `wp_options` (`option_name`, `option_value`, `autoload`) VALUES ('nonce_salt', '=l$1+LUL#L8c1#jd@bPzY,7_Q)z50teeZj?fwZlB!AKGj?Tr}C5^Hx?9`#LS}c>q', 'no') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by wp_can_install_language_pack, WP_Upgrader->fs_connect, Automatic_Upgrader_Skin->request_filesystem_credentials, WP_Upgrader_Skin->request_filesystem_credentials, request_filesystem_credentials, wp_nonce_field, wp_create_nonce, wp_hash, wp_salt, update_site_option, update_network_option, add_network_option, add_option
+sh: 1: /usr/sbin/sendmail: not found
+[Sat Apr 09 13:08:46.428790 2022] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.4. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 09 13:28:52.527592 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Apr 09 13:37:43.000855 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 09 13:37:43.007506 2022] [ssl:warn] [pid 1] AH01906: cms:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+sh: 1: /usr/sbin/sendmail: not found
+[Sat Apr 09 13:42:06.451592 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Apr 09 13:42:20.811012 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 09 13:42:20.853367 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 09 13:42:20.859065 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.53 (Debian) PHP/7.4.28 OpenSSL/1.1.1n configured -- resuming normal operations
+[Sat Apr 09 13:42:20.859333 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Apr 09 13:45:27.103369 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Sat Apr 09 13:45:42.684127 2022] [ssl:warn] [pid 1] AH01909: 192.168.20.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.20.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 09 13:45:42.743741 2022] [ssl:warn] [pid 1] AH01909: 192.168.20.3:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 09 13:45:42.752029 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.53 (Debian) PHP/7.4.28 OpenSSL/1.1.1n configured -- resuming normal operations
+[Sat Apr 09 13:45:42.752225 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Apr 09 13:57:09.604702 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 09 13:57:09.653840 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 09 13:57:09.661514 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.53 (Debian) PHP/7.4.28 OpenSSL/1.1.1n configured -- resuming normal operations
+[Sat Apr 09 13:57:09.661755 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
