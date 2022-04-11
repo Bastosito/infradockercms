@@ -21,6 +21,7 @@ Les échanges sont chiffrés de l'extérieur vers le reverse proxy 443 (le port 
 Pour la persistance des données j'ai simplement attaché des volumes aux dockers :
 
     - MariaDB -> ```./db:/var/lib/mysql```
+    
     - CMS -> ```./cms/public:/var/www/html/```
 
 Et d'autres volumes consacrés aux fichiers de configuration disponibles dans le docker-compose.
