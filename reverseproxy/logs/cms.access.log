@@ -2691,3 +2691,4 @@
 192.168.10.1 - - [12/Apr/2022:16:13:24 +0000] "GET / HTTP/1.1" 500 2527 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
 192.168.10.1 - - [12/Apr/2022:16:13:35 +0000] "GET /favicon.ico HTTP/1.1" 500 2527 "https://tdd.fr/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
 192.168.10.1 - - [12/Apr/2022:16:36:54 +0000] "GET / HTTP/1.1" 500 2527 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+192.168.10.1 - - [12/Apr/2022:16:37:04 +0000] "GET /favicon.ico HTTP/1.1" 500 2527 "https://tdd.fr/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
