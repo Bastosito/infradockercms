@@ -1,7 +1,7 @@
 version: "3.9"
 services:
   reverse-proxy:
-    image: nginx
+    image: nginx:1.21.6
     container_name: reverseproxy
     ports:
       - 443:443
@@ -33,7 +33,7 @@ services:
       - ./cms/sites-enabled:/etc/apache2/sites-enabled
       - ./cms1/logs:/var/log/apache2
   database:
-    image: mariadb
+    image: database
     container_name: mysql
     environment:
       MYSQL_ROOT_PASSWORD: davidstos

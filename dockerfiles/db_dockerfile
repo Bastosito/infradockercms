@@ -1,0 +1,5 @@
+FROM mariadb:10.8.2-rc-focal
+RUN apt-get update &&\
+    apt-get install cron &&\
+    printf '* * * * * root echo "Hello world" >> /var/log/cron.log 2>&1\n#' >> /etc/cron.d/bp-cron &&\
+    cron
