@@ -26,6 +26,11 @@ Pour la persistance des données j'ai simplement attaché des volumes aux docker
 
 Et d'autres volumes consacrés aux fichiers de configuration disponibles dans le docker-compose.
 
+- Extra
+
+J'ai également mis en place un docker cron qui permet de faire un backup de la base de données du cms tous les jours à 20h22.
+Il stocke ensuite le dump dans le volume partagé cron/backup_db.
+
 ```mermaid
 graph TD
     A[Client] -->|443/80| C{Docker}
@@ -36,4 +41,13 @@ graph TD
     G --> H[Bridge 3]
     I(Base MariaDB) --> H
     J(Cron Alpine) --> H
+```
+
+Commandes de déploiement:
+
+```
+docker build . -t cms -f .\dockerfiles\web_dockerfile
+docker build . -t cron -f .\dockerfiles\cron_dockerfile
+
+docker-compose -p "IPI" up -d
 ```
