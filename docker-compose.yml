@@ -35,10 +35,9 @@ services:
   database:
     image: database
     container_name: mysql
-    environment:
-      MYSQL_ROOT_PASSWORD: davidstos
     volumes:
       - ./db:/var/lib/mysql
+      - ./db/backup:/home/
     networks:
       - backend-db
 networks:

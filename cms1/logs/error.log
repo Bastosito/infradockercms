@@ -176,3 +176,42 @@ AH00558: apache2: Could not reliably determine the server's fully qualified doma
 [Mon Apr 11 20:07:32.563931 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
 [Mon Apr 11 20:11:16.409172 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
 AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 20:16:05.601122 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Apr 11 20:16:44.046030 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 20:19:25.524026 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Apr 11 20:20:10.357073 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 20:28:39.017378 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Apr 11 20:29:28.757560 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 20:33:29.825806 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Apr 11 20:34:23.914893 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 20:35:39.077936 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Mon Apr 11 20:35:50.439920 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 11 20:58:03.280596 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Apr 12 11:30:43.587490 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 12 11:34:15.582084 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Apr 12 11:37:12.866251 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 12 11:45:05.447126 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Apr 12 11:45:27.235383 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 12 11:48:46.086015 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Apr 12 11:49:07.716605 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 12 11:49:07.753571 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 12 11:49:07.761682 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.53 (Debian) PHP/7.4.28 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Apr 12 11:49:07.761879 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Apr 12 11:51:25.237977 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Apr 12 11:51:38.577577 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 12 11:52:05.396280 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Apr 12 11:52:25.636352 2022] [ssl:warn] [pid 1] AH01909: 192.168.20.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.20.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 12 11:53:01.173375 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Apr 12 11:53:24.017837 2022] [ssl:warn] [pid 1] AH01909: 192.168.10.3:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.10.3. Set the 'ServerName' directive globally to suppress this message
