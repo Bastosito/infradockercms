@@ -1,0 +1,9 @@
+FROM alpine
+COPY ./cron/conf/crontab /etc/crontab
+COPY ./cron/conf/mysql.conf /etc/mysql/mysql.conf
+RUN crontab /etc/crontab &&\
+    mkdir /var/log/backup_db &&\
+    apk add --no-cache mysql-client &&\
+    apk add tzdata &&\
+    cp /usr/share/zoneinfo/Europe/Paris /etc/localtime
+CMD crond -f

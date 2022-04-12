@@ -33,11 +33,20 @@ services:
       - ./cms/sites-enabled:/etc/apache2/sites-enabled
       - ./cms1/logs:/var/log/apache2
   database:
-    image: database
+    image: mariadb:10.8.2-rc-focal
     container_name: mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=davidstos
     volumes:
       - ./db:/var/lib/mysql
       - ./db/backup:/home/
+    networks:
+      - backend-db
+  cron:
+    image: cron
+    container_name: cron
+    volumes:
+      - ./cron/backup_db:/var/log/backup_db
     networks:
       - backend-db
 networks:

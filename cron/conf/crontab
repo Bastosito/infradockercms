@@ -1,0 +1,1 @@
+22 20 * * * mysqldump --defaults-extra-file=/etc/mysql/mysql.conf -h database -u cron  wordpress > /var/log/backup_db/dump_cms_`date +"%m-%d-%y-%HH%M"`.sql
