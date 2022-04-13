@@ -31,6 +31,8 @@ Et d'autres volumes consacrés aux fichiers de configuration disponibles dans le
 J'ai également mis en place un docker cron qui permet de faire un backup de la base de données du cms tous les jours à 20h22.
 Il stocke ensuite le dump dans le volume partagé cron/backup_db.
 
+Je sais que ce n'est pas forcément intéressant d'utiliser un docker apache2 et un docker nginx, car cela entraine la création de 2 images sur la machine locale, mais je voulais administrer les deux types de serveur pour le challenge.
+
 ```mermaid
 graph TD
     A[Client] -->|443/80| C{Docker}
