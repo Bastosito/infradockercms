@@ -2747,3 +2747,5 @@
 192.168.10.1 - - [12/Apr/2022:17:20:19 +0000] "GET /favicon.ico HTTP/1.1" 302 0 "https://tdd.fr/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
 192.168.10.1 - - [12/Apr/2022:17:20:19 +0000] "GET /wp-includes/images/w-logo-blue-white-bg.png HTTP/1.1" 200 4119 "https://tdd.fr/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
 192.168.10.1 - - [12/Apr/2022:18:45:36 +0000] "GET / HTTP/1.1" 200 11552 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+192.168.10.1 - - [12/Apr/2022:18:45:37 +0000] "GET /favicon.ico HTTP/1.1" 302 0 "https://tdd.fr/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
+192.168.10.1 - - [12/Apr/2022:18:45:37 +0000] "GET /wp-includes/images/w-logo-blue-white-bg.png HTTP/1.1" 200 4119 "https://tdd.fr/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36"
