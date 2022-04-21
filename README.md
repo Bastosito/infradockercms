@@ -51,8 +51,8 @@ Commandes de déploiement:
 git clone https://github.com/Davidstos/infradockercms.git
 cd infradockercms
 
-docker build . -t cms -f .\dockerfiles\web_dockerfile
-docker build . -t cron -f .\dockerfiles\cron_dockerfile
+docker build . -t cms -f ./dockerfiles/web_dockerfile
+docker build . -t cron -f ./dockerfiles/cron_dockerfile
 
 docker-compose -p "IPI" up -d
 ```
